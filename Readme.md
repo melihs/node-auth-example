@@ -39,7 +39,7 @@ Finally, copy the following fields for your app in the env file
 
 Domain, Client ID
 
-    $ git clone
+    $ git clone https://github.com/melihs/node-auth-example.git
     $ npm i
     $ npm start
     $ localhost:3000/login
